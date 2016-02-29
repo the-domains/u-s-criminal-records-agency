@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-29T06:09:33.216Z'
-dateModified: '2016-02-29T04:22:09.938Z'
+datePublished: '2016-02-29T06:15:19.162Z'
+dateModified: '2016-02-29T06:11:19.238Z'
 title: CRIMINAL BACKGROUND CHECK
 author: []
+sourcePath: _posts/2016-02-29-criminal-background-check.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-29-criminal-background-check.md
-published: true
 url: criminal-background-check/index.html
 _type: Article
 
