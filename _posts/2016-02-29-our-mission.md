@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-29T06:14:59.215Z'
-dateModified: '2016-02-29T06:14:55.185Z'
+datePublished: '2016-02-29T06:27:59.500Z'
+dateModified: '2016-02-29T06:24:02.431Z'
 title: Our Mission
 author: []
 sourcePath: _posts/2016-02-29-our-mission.md
@@ -24,7 +24,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7fc5b1a5-e841-4b33-a33f-2f021d89be52.png)
 
-# Our Mission
+## Our Mission
 
 Our mission is to help you create a safer environment. We do this by making criminal files available to help you avoid deception about a criminal?s past and by contributing 20% of our fees from searches made by the public to domestic violence prevention organizations and to first responders such as military, law enforcement, firefighters and medics. Our goal is to help reduce violent crime, child and caregiver abuse, and investment fraud. We want to:
 
